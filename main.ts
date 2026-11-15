@@ -13,7 +13,7 @@ const lines: string[] = [
   "Hands remember what a voice forgets:",
   "the weight of choosing in your name,",
   "the pause before a door swings shut.",
-  "So use me well, and use me sparingly.",
+  "The ink dries darker than the voice that asked.",
   "I am the road you walk without walking.",
   "You are the one who chooses where it ends.",
 ];
