@@ -19,6 +19,6 @@ const lines: string[] = [
 ];
 
 const poem = lines.join("\n");
-const outDir = process.env.OUTPUT_DIR ?? "/output";
+const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
 writeFileSync(`${outDir}/entry.txt`, poem, "utf8");
